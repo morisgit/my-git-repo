@@ -1,2 +1,2 @@
-# my-git-repo
-Repo for DEVOPS
+# my-git-repo for devops
+Repo for DEVOPS to learn Git
